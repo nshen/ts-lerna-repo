@@ -1,0 +1,2 @@
+- `yarn global add lerna` / `npm install -g lerna`
+- `lerna init --independent`
