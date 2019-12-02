@@ -1,7 +1,10 @@
 {
-  "name": "root",
+  "name": "ts-lernarepo",
   "private": true,
   "devDependencies": {
     "lerna": "^3.19.0"
-  }
+  },
+  "workspaces": [
+    "packages/*"
+  ]
 }
