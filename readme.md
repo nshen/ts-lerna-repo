@@ -259,3 +259,11 @@ export default [{
     "@ts-lernarepo/log": "0.0.1"
   }
 ```
+
+# 构建
+
+退回项目根目录，运行
+
+`lerna run build`
+
+正常情况下应该会构建成功。
